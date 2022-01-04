@@ -29,7 +29,3 @@ You can alter the V2 data arrangement of the REST response using the filter hook
 1. `rest_menus_format_menus` to alter the list of menu items returned (e.g from `wp-json/wp-api-menus/v2/menus/`)
 2. `rest_menus_format_menu` to alter a single menu returned (e.g `wp-json/wp-api-menus/v2/menus/<id>`)
 3. `rest_menus_format_menu_item` to alter the menu items returned (e.g `wp-json/wp-api-menus/v2/menus/<id>` `items` property)
-
-#### Contributing
-
-* Submit a pull request or open a ticket here on GitHub. 
