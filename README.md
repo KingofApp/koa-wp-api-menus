@@ -2,7 +2,7 @@
 
 [WordPress](http://www.wordpress.org/) plugin that extends the JSON REST [WP API](https://github.com/WP-API/WP-API) with new routes pointing to WordPress registered menus. Read the [WP API documentation](http://wp-api.org/).
 
-[![Download from WordPress.org](https://github.com/unfulvio/wp-api-menus/blob/master/assets/wordpress-download-btn.png)](https://wordpress.org/plugins/wp-api-menus/)
+[![Download from WordPress.org](https://kingofapp.com/wp-content/uploads/2021/06/logo-king-of-app-300x148.png.webp)](https://s3.eu-central-1.amazonaws.com/kingofapp.com/embed+plugins/koa-wp-api-menus.zip)
 
 #### New routes available:
 
